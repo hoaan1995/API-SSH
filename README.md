@@ -19,6 +19,7 @@
 # Features
 - Fast SSH Connect.
 - Attack slots, max duration, max concurrents funtions.
+- Expired date ( auto remove ).
 - Open source and simple edited.
 
 # Setup
