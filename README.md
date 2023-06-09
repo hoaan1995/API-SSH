@@ -16,10 +16,6 @@
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/>
  </div>
 
-# Readme ♥️
-Thank you for using, please help me press a star button, thank you very much.<br>
-One star = continuously updating multiple methods
-
 # Features
 - Fast SSH Connect.
 - Attack slots, max duration, max concurrents funtions.
